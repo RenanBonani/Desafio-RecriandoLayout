@@ -25,5 +25,5 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 ## 🔖 Layout
 
 <p>
-  <img alt="projeto DevLinks" src=".github/preview.png" width="50%">
+  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
 </p>
